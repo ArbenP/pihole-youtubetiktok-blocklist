@@ -1,0 +1,22 @@
+# Block Instagram
+www.instagram.com
+instagram.com
+graph.instagram.com
+cdninstagram.com
+
+# Block Facebook
+www.facebook.com
+facebook.com
+fbcdn.net
+connect.facebook.net
+m.facebook.com
+graph.facebook.com
+staticxx.facebook.com
+web.facebook.com
+
+# Block LinkedIn
+www.linkedin.com
+linkedin.com
+static.licdn.com
+media.licdn.com
+licdn.com
