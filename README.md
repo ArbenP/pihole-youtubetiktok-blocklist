@@ -1,6 +1,6 @@
 # Pi-hole YouTube and TikTok Blocklist
 
-A curated blocklist designed to block common YouTube and TikTok domains on Pi-hole. This list helps limit access to these platforms for network management or parental control purposes.
+This curated blocklist was developed as part of a project for a client requiring network-level restrictions on YouTube and TikTok. It is designed for use with Pi-hole to help enforce content filtering policies for network management or parental control purposes.
 
 ## Features
 - Blocks common YouTube domains.
@@ -28,5 +28,10 @@ The blocklist is regularly updated to include new domains. To keep your Pi-hole 
 pihole -g
 ```
 
+## Client-Specific Customisation
+
+This blocklist was tailored to meet a client’s specific content filtering requirements. If you need a customised solution for your network, feel free to reach out at https://noduscloud.com
+
 ## Contribution
-Contributions are welcome! If you notice a domain that's missing or find any issues, feel free to open an issue or submit a pull request.
+
+Community contributions are welcome! If you identify missing domains or issues, feel free to open an issue or submit a pull request.
