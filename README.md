@@ -14,7 +14,7 @@ To use this blocklist with your Pi-hole, follow these steps:
 2. Navigate to **Group Management** > **Adlists**.
 3. Add the following URL to the **Address** field:
    ```
-   https://github.com/ArbenP/pihole-youtubetiktok-blocklist/blob/main/blocklist.txt
+   https://raw.githubusercontent.com/ArbenP/pihole-youtubetiktok-blocklist/main/blocklist.txt
    ```
 4. Click **Add**.
 5. Update your Pi-hole gravity by running:
