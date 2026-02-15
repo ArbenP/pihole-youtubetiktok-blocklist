@@ -30,7 +30,7 @@ pihole -g
 
 ## Client-Specific Customisation
 
-This blocklist was tailored to meet a client’s specific content filtering requirements. If you need a customised solution for your network, feel free to reach out at https://noduscloud.com
+This blocklist was tailored to meet a client’s specific content filtering requirements. If you need a customised solution for your network, feel free to reach out at https://nexuscloud.ie
 
 ## Contribution
 
